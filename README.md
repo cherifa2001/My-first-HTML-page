@@ -17,6 +17,11 @@ Une page principale (index.html) qui sert de point d'entrée au site web.
 Ce projet illustre une organisation claire des fichiers et démontre l'application des bases de HTML, CSS, et JavaScript.
 </p>
 
+## Aperçu  
+Voici un aperçu des pages du projet :
+### Page principale  
+![Page Principale](page_principale.png)  
+
 
 
 
