@@ -21,6 +21,8 @@ Ce projet illustre une organisation claire des fichiers et démontre l'applicati
 Voici un aperçu des pages du projet :
 ### Page principale  
 ![Page Principale](page_principale.png)  
+### Première page secondaire 
+![Page secondaire 01](page_principale.png)  
 
 
 
